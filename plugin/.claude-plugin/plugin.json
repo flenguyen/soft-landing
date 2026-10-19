@@ -1,0 +1,11 @@
+{
+  "name": "soft-landing",
+  "displayName": "Soft Landing",
+  "version": "0.2.0",
+  "description": "A 30-second breath while Claude works, and a 2-minute landing when you're done. Local and quiet: no network, no tracking, nothing saved.",
+  "author": { "name": "Soft Landing", "url": "https://github.com/flenguyen/soft-landing" },
+  "homepage": "https://github.com/flenguyen/soft-landing#readme",
+  "repository": "https://github.com/flenguyen/soft-landing",
+  "license": "MIT",
+  "keywords": ["breathing", "breaks", "wellbeing", "focus", "pause"]
+}

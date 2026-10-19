@@ -1,0 +1,13 @@
+# Test output and the packaged zip
+test/runs/
+dist/
+
+# Written by claude --plugin-dir; never ship them
+.claude-plugin/types/
+tsconfig.json
+
+.DS_Store
+__pycache__/
+
+# Local working notes and experiments, never published
+private/
