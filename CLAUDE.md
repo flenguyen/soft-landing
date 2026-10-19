@@ -14,9 +14,9 @@ It ships as one Claude plugin that works in regular Claude chat, Cowork and Clau
 
 History, for context only, kept locally and never published: `private/docs/` (the founding brief, the first build's notes, the v0.2 planning prompt) and `private/test/probes/` (one-off experiments).
 
-## Status (16 October 2026)
+## Status (19 October 2026)
 
-- Planning is done. `plugin/` holds a working test build (version `0.2.0-dev`). Nothing is released.
+- **Released 0.2.0 on 19 October 2026** as a public repo and its own marketplace (`flenguyen/soft-landing`, tag `v0.2.0`). Not yet submitted to Anthropic's directory. Collecting feedback.
 - The breath runs in the Code pane: a self-animating ring (Braille on the terminal), Pause's 30 seconds, Land's 2 minutes in three phases, Begin, Leave when ready, and "Claude is asking you something" in Pause. Seen working in Antigravity. The chat cards match, and are smaller than before.
 - Waiting on real-app checks by the maintainer (see "Not yet tested" in `docs/test-results.md`):
   - Does a plugin added from Customize reach the Code tab, with its buttons?
